@@ -36,7 +36,3 @@ class Election {
         System.out.println("Martinez \t" + (MartinezTotal) + "\t" + (percent.format(MartinezPercentage)));
     }
 }
-
-
-
-
